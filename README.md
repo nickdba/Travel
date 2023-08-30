@@ -2,7 +2,7 @@
 
 ## Prague
 
-Travel ideas for prague.
+Travel ideas for Prague.
 
 * [Day 1](Prague/Day-1)
 * [Day 2](./Prague/Day-2)
