@@ -34,6 +34,7 @@
   - [Lucerna Passage](#lucerna-passage)
   - [Places to eat and Drink](#places-to-eat-and-drink)
   - [Transport](#transport)
+  - [Trivia Answers.](#trivia-answers)
 
 ## Prague Historic centre
 
@@ -375,6 +376,7 @@ of illness. Some 300 medieval houses and 20 streets were wiped off the map. Afte
 Jewish Town – Josefov.
 
 Tickets can be bought from the museums of the Pinkas Synagogue, Klausen Synagogue or the Spanish synagogue.
+Open each day from 9am to 6pm except Saturday.
 
 ### Trivia 5
 
@@ -493,4 +495,12 @@ Pivnice „U zlatého slona“ (Elephant) opens at 11 / Order Svickova, Gulas or
 
 Take the bus 207 from Hotel Ehrlich (Cerinova St.) to Paladium shopping mall (Náměstí Republiky St.) and Jewish quarter (Staroměstská St.).  
 Take the tram 9 from Lucerna passage (Václavské náměstí) to Lidl (Ohrada St.)  
-Take the tram 7 from Hotel Ehrlich (Biskupcova St.) to Vyšehrad (Albertov St.)  
+Take the tram 7 from Hotel Ehrlich (Biskupcova St.) to Vyšehrad (Albertov St.)
+
+## Trivia Answers.
+
+1. A  
+2. B
+3. B
+4. C
+5. A
