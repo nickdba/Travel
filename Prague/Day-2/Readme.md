@@ -25,11 +25,13 @@
   - [Church of St. Martin in the Wall / Kostel sv. Martina ve zdi](#church-of-st-martin-in-the-wall--kostel-sv-martina-ve-zdi)
   - [Church of Our Lady of The Snows / Kostel panny Marie Sněžné](#church-of-our-lady-of-the-snows--kostel-panny-marie-sněžné)
   - [Wenceslas Square / Václavské náměstí](#wenceslas-square--václavské-náměstí)
+  - [Trivia 4](#trivia-4)
   - [Church of St. Gallen / Kostel sv. Havla](#church-of-st-gallen--kostel-sv-havla)
   - [Estates Theatre / Stavovské divadlo](#estates-theatre--stavovské-divadlo)
   - [Karolinum / Karolinum](#karolinum--karolinum)
   - [Jindřišská Tower / Jindřišskávěž](#jindřišská-tower--jindřišskávěž)
   - [Jubilejní (Jeruzalémská) synag](#jubilejní-jeruzalémská-synag)
+  - [Trivia 5](#trivia-5)
   - [Places to eat and Drink](#places-to-eat-and-drink)
   - [Transport](#transport)
 
@@ -146,11 +148,27 @@ The Clementinum, a former Jesuit college, is the second largest place of interes
 ## Church of St. Martin in the Wall / Kostel sv. Martina ve zdi
 ## Church of Our Lady of The Snows / Kostel panny Marie Sněžné
 ## Wenceslas Square / Václavské náměstí
+
+## Trivia 4
+
+Did you notice what date is written on the ground in front of the statue of St. Wenceslas - the date of the founding of the Czechoslovak Republic?  
+a) 28.10.1918  
+b) 18.10.1918  
+c) 18.10.1989  
+
 ## Church of St. Gallen / Kostel sv. Havla
 ## Estates Theatre / Stavovské divadlo
 ## Karolinum / Karolinum
 ## Jindřišská Tower / Jindřišskávěž
 ## Jubilejní (Jeruzalémská) synag
+
+## Trivia 5
+
+Have you gone the entire route? Do you know how many kilometers you have traveled?  
+a) approx. 6 km  
+b) approx. 10 km  
+c) approx. 3 km  
+
 
 ## Places to eat and Drink
 
