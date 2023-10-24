@@ -74,10 +74,10 @@
     - [Church of Our Lady Victorious and The Infant Jesus of Prague / Kostel Panny Marie Vítězné a Pražské Jezulátko](#church-of-our-lady-victorious-and-the-infant-jesus-of-prague--kostel-panny-marie-vítězné-a-pražské-jezulátko)
     - [Virgin Mary under Chain / Kostel Panny Marie pod řetězem](#virgin-mary-under-chain--kostel-panny-marie-pod-řetězem)
   - [Vysehrad Castle (Vyšehrad)](#vysehrad-castle-vyšehrad)
-  - [BASILICA OF SAINTS PETER AND PAUL / BAZILIKA SV.PETRA A PAVLA](#basilica-of-saints-peter-and-paul--bazilika-svpetra-a-pavla)
-  - [ST. MARTIN ROTUNDA (ROTUNDA SV. MARTINA)](#st-martin-rotunda-rotunda-sv-martina)
-  - [ST. LAWRENCE BASILICA (BAZILIKA SV. VAVŘINCE)](#st-lawrence-basilica-bazilika-sv-vavřince)
-  - [VYSEHRAD CEMETERY (VYŠEHRADSKÝ HŘBITOV A SLAVÍN)](#vysehrad-cemetery-vyšehradský-hřbitov-a-slavín)
+    - [BASILICA OF SAINTS PETER AND PAUL / BAZILIKA SV.PETRA A PAVLA](#basilica-of-saints-peter-and-paul--bazilika-svpetra-a-pavla)
+    - [ST. MARTIN ROTUNDA (ROTUNDA SV. MARTINA)](#st-martin-rotunda-rotunda-sv-martina)
+    - [ST. LAWRENCE BASILICA (BAZILIKA SV. VAVŘINCE)](#st-lawrence-basilica-bazilika-sv-vavřince)
+    - [VYSEHRAD CEMETERY (VYŠEHRADSKÝ HŘBITOV A SLAVÍN)](#vysehrad-cemetery-vyšehradský-hřbitov-a-slavín)
   - [Trivia Answers.](#trivia-answers)
 
 ## Prague Historic centre
@@ -896,13 +896,13 @@ mines, where the attackers were from. They killed all the miners and the pit cea
 river, letting Horymir escape his captors. Křesomysl was so surprised that he decided to forgive Horymir and reconcile with him. Unfortunately Semika suffered serious injuries and
 died.
 
-## BASILICA OF SAINTS PETER AND PAUL / BAZILIKA SV.PETRA A PAVLA
+### BASILICA OF SAINTS PETER AND PAUL / BAZILIKA SV.PETRA A PAVLA
 
 A bell towers of Saints Peter and Paul are the dominating feature of Vyšehrad, visible from afar. Today's Neo-Gothic style is from 1902 by Josef Mocker and incorporates the
 remnants of Gothic and Romanesque masonry. The important events that are associated with this site indicate that in the year 1070 Vratislav II created the site. Coupled with his royal coronation, the Vyšehrad Chapter was founded in the year 1085- the first royal coronation of a Czech king. Later, Charles IV chose Vyšehrad as the starting point for the Czech king's coronation parade. From this period is preserved in the church a rare plate picture of the Madonna of Vyšehrad called the Rain Madonna. The records say it was used during dry periods during which the procession asked for a weather change and the painting at this time was also included in the famous Emperor Rudolph's collections. A little known attraction of this church is undoubtedly the bells. They were created by perhaps the most famous 16th century Czech bell maker Brikcius of Cymperka- the artistry of the bells earned him an aristocratic coat-of-arms. Along with Brikcius decorated bells conveying Biblical stories, there is an unusual motif of farm work as well, allowing one to see such scenes as sheep shearing,
 hoeing fields, or milking cows. The Basilica of Saints Peter and Paul, according to historical sources, also contains the remains of the first Přemysl Crypt: Vratislav II, his brother Conrad, Soběslav I and II. The excavations, however, still have not confirmed this assumption. The current form of the church from its last renovation from 1902-1903 is by Josef Mocker who built the high towers, removing the previous pseudo-Baroque towers. The relief carved tympanum above the main portal by Stepan Zálešák displays motifs from the Last Judgement. On the facade of the church is a plaque that commemorates the baptism of 14 Czech princes at Regensburg in 845 and is the location where the church's tubular bells which plays several different tunes, always according to the current holiday or important event (are there people playing or are they in the tower?) The interior was decorated by Francis and Vera Urban Art Nouveau figural ornaments. The Presbyterian frescoes are from the Viennese painter Karl Jobst which depict scenes from the lives of SS. Peter and Paul. Josef Mocker designed the main alter of the temple. On the altar in the third chapel, see the above mentioned panel painting of the Rain Madonna. The legend also says that he painted himself as St. Luke. In the first chapel on the right is the tomb of St. Longinus from the 12th century.
 
-## ST. MARTIN ROTUNDA (ROTUNDA SV. MARTINA)
+### ST. MARTIN ROTUNDA (ROTUNDA SV. MARTINA)
 
 While walking around Vyšehrad, certainly stop at the rotunda of St. Martin. The Rotunda of St. Martin is the oldest rotunda in Prague and dates back to the end of the 11th century, when Prague was ruled by Prince Vratislav II. The walls reach an incredible width of one meter. The rotunda diameter is about sixand-a-half meters. The rotunda was used as a gunpowder 
 house during the Thirty Years War. It was renewed as a church in 1719. Unfortunately, after one year the rotunda was damaged again and could nolonger serve its purpose as a church. 
@@ -911,11 +911,11 @@ The Neo-Renaissance altar rotunda, which is made of Slivenec marble, is decorate
 the central building there is an apse with the unusual parabolic shape of the original walls of the smaller blocks of stone. In 1719, the old Romanesque entrance portal was
 replaced with new Baroque tiles. Because of the bombing of Prague and the Prussian army in 1757, the building was badly damaged. In memory of this event, one of the Prussian cannonballs was bricked into its walls, which can be seen there today. In 1784 the Emperor Joseph II ordered it to be used as a warehouse. When the building of a new communications system threatened the Vyšehrad's rotunda with demolition, it is thanks to the Surgeon Earl Chotek that it was saved. The rotunda was then rented as housing for the poor. The was pnctured for a new entry and in the apse a kitchen was built and another hole was made in the ceiling for a chimney. At the end of the 19th century the Vyšehrad canonry bought the building back and it was restored, giving it its most recent form. It has been restored back to its Romanesque origins. A new entry portal was put in, windows covered the lanterns, and an accompanying stucco cornices as well as the windows got new stained-glass panes.
 
-## ST. LAWRENCE BASILICA (BAZILIKA SV. VAVŘINCE)
+### ST. LAWRENCE BASILICA (BAZILIKA SV. VAVŘINCE)
 
 The masonry of the foundations of St. Lawrence can be seen in the baroque residence No.14 on Sobeslav street, close to the prince's home and the royal acropolis of the medieval castle. The building was originally a three nave design with a transept and semicircular apse. Believed to have been found in the private chapel of Vratislav II, come some of the oldest archaeological finds: tiles that are embossed with motifs of the sphinx, the Emperor Nero, griffin and lion-dog hybrids. These are now on view at St. Lawrence. The basilica was destroyed by the Hussites in 1420 but has since been restored.
 
-## VYSEHRAD CEMETERY (VYŠEHRADSKÝ HŘBITOV A SLAVÍN)
+### VYSEHRAD CEMETERY (VYŠEHRADSKÝ HŘBITOV A SLAVÍN)
 
 The Vysehrad cemetery forms a dominant part of the Vyšehrad National Cultural Monument. The graves of meritorious personages are concentrated here, many of those who
 contributed to Czech culture, education, national selfdetermination and the independence of the country.

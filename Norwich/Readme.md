@@ -10,9 +10,11 @@ Norwich claims to be the most complete medieval city in the United Kingdom. It i
   - [History](#history)
     - [Origin](#origin)
     - [Middle Ages](#middle-ages)
+    - [20th century](#20th-century)
+    - [World War II and Post-war redevelopment](#world-war-ii-and-post-war-redevelopment)
   - [Elm Hill](#elm-hill)
     - [St Peter Hungate](#st-peter-hungate)
-  - [Britons Arms](#britons-arms)
+    - [Britons Arms](#britons-arms)
     - [St Simon and St Jude's Church](#st-simon-and-st-judes-church)
   - [Timber Hill](#timber-hill)
   - [Tombland](#tombland)
@@ -120,7 +122,7 @@ From earliest times, Norwich was a textile centre. In the 1780s the manufacture 
 
 Norwich's geographical isolation was such that until 1845, when a railway link was established, it was often quicker to travel to Amsterdam by boat than to London. The railway was introduced to Norwich by Morton Peto, who also built a line to Great Yarmouth. From 1808 to 1814, Norwich had a station in the shutter telegraph chain that connected the Admiralty in London to its naval ships in the port of Great Yarmouth. A permanent military presence was established in the city with the completion of Britannia Barracks in 1897. The Bethel Street and Cattle Market Street drill halls were built around the same time.
 
-20th century
+### 20th century
 
 Waterloo Park, one of six parks built during the 1930s to help alleviate unemployment in the city
 In the early 20th century, Norwich still had several major manufacturing industries. Among them were the large-scale and bespoke manufacture of shoes (for example the Start-rite and Van Dal brands, Bowhill & Elliott and Cheney & Sons Ltd respectively), clothing, joinery (including the cabinet makers and furniture retailer Arthur Brett and Sons, which continues in business in the 21st century), structural engineering, and aircraft design and manufacture. Notable employers included Boulton & Paul, Barnards (iron founders and inventors of machine-produced wire netting), and the electrical engineers Laurence Scott and Electromotors.
@@ -139,13 +141,11 @@ The city had a long tradition of brewing. Several large breweries continued into
 
 It was stated by Walter Wicks in his book that Norwich once had "a pub for every day of the year and a church for every Sunday". This was in fact significantly under the actual amount: the highest number of pubs in the city was in the year 1870, with over 780 beer-houses. The Licensing Act of 1872 had several detrimental effects for landlords and customers, with the total pub numbers dropping to 634.[citation needed] A "Drink Map" produced in 1892 by the Norwich and Norfolk Gospel Temperance Union showed 631 pubs in and around the city centre. By 1900, the number had dropped to 441 pubs within the City Walls. The title of a pub for every day of the year survived until 1966, when the Chief Constable informed the Licensing Justices that only 355 licences were still operative,[citation needed] with the number still shrinking: over 25 had closed in the last decade. In 2018, about 100 pubs remained open around the city centre.
 
-Second World War
-Main article: Norwich Blitz
+### World War II and Post-war redevelopment
+
 Norwich suffered extensive bomb damage during World War II, affecting large parts of the old city centre and Victorian terrace housing around the centre. Industry and the rail infrastructure also suffered. The heaviest raids occurred on the nights of 27/28 and 29/30 April 1942; as part of the Baedeker raids (so-called because Baedeker's series of tourist guides to the British Isles were used to select propaganda-rich targets of cultural and historic significance rather than strategic importance). Lord Haw-Haw made reference to the imminent destruction of Norwich's new City Hall (completed in 1938), although in the event it survived unscathed. Significant targets hit included the Morgan's Brewery building, Colman's Wincarnis works, City Station, the Mackintosh chocolate factory, and shopping areas including St Stephen's St and St Benedict's St, the site of Bond's department store (now John Lewis) and Curl's (later Debenhams) department store.
 
 229 citizens were killed in the two Baedeker raids with 1,000 others injured, and 340 by bombing throughout the war — giving Norwich the highest air raid casualties in Eastern England. Out of the 35,000 domestic dwellings in Norwich, 2,000 were destroyed, and another 27,000 suffered some damage. In 1945 the city was also the intended target of a brief V-2 rocket campaign, though all these missed the city itself.
-
-Post-war redevelopment
 
 The University of East Anglia, which opened in 1963
 As the war ended, the city council revealed what it had been working on before the war. It was published as a book – The City of Norwich Plan 1945 or commonly known as "The '45 Plan" – a grandiose scheme of massive redevelopment which never properly materialised. However, throughout the 1960s to early 1970, the city was completely altered and large areas of Norwich were cleared to make way for modern redevelopment.
@@ -172,7 +172,7 @@ The church is medieval. The date of 1460, representing rededication by the Pasto
 
 After closure, in 1929, the church was converted to a Museum of Ecclesiastical Art (1932), later renamed Hungate Museum of Church Art. The museum closed in 1995, and the church passed into the care of Norwich Historic Churches Trust. It is now occupied by 'Hungate' a centre for Medieval Art.
 
-## Britons Arms
+### Britons Arms
 
 Currently known as the Britons Arms, this is a Grade 2 listed medieval timber framed building standing on the corner of Elm Hill in a location that would have been close to the center of medieval Norwich. Remains of cellars below the building are thought to date back to 13th century, and the builidng stands in what was the churchyard of St Peter Hungate, originally completed in 1254.
 
