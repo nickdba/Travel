@@ -16,13 +16,21 @@ Norwich claims to be the most complete medieval city in the United Kingdom. It i
     - [Pull’s Ferry](#pulls-ferry)
     - [Lollards Pit – A Grim Tale of Persecution](#lollards-pit--a-grim-tale-of-persecution)
     - [Cow Tower](#cow-tower)
+  - [Tombland](#tombland)
+    - [Maids Head Hotel](#maids-head-hotel)
+    - [Louis Marchesi Pub](#louis-marchesi-pub)
+    - [Augustine Steward's House](#augustine-stewards-house)
   - [Norwich Cathedral](#norwich-cathedral)
+    - [Exterior](#exterior)
+    - [Interior](#interior)
+    - [The Close (The Cathedral Precinct)](#the-close-the-cathedral-precinct)
   - [Elm Hill](#elm-hill)
     - [St Peter Hungate](#st-peter-hungate)
     - [Britons Arms](#britons-arms)
     - [St Simon and St Jude's Church](#st-simon-and-st-judes-church)
   - [Timber Hill](#timber-hill)
-  - [Tombland](#tombland)
+    - [The Gardeners Arms](#the-gardeners-arms)
+  - [Tombland](#tombland-1)
   - [St Andrew's Hall](#st-andrews-hall)
   - [Dragon Hall](#dragon-hall)
   - [The Guildhall](#the-guildhall)
@@ -217,9 +225,47 @@ The walls of the tower were built with a core of mortared flint rubble, faced in
 
 It seems likely that the origin of the tower’s name is derived from the surrounding meadow, previously known as Cowholme.
 
-## Norwich Cathedral
+## Tombland
 
-We enter through bishop gate into the garden of Norwich Cathedral.
+### Maids Head Hotel
+
+The Hotel dates from the 13th century and is amalgamation of at least 6 buildings, one of the buildings was the palace of the first Norman Bishop of Norwich, Herbert de Losinga. The bishop used St Simon and St Jude Church (across the road on Wensum Street) as his chapel.  
+The inn was originally built for bishops and nobles visiting the cathedral, it has a long and rich backstory.
+The main façade faces on to intersection of three streets, Tombland, Wensum Street and Palace Street. The hotel has a total of 84 bedrooms all of which are en-suite.
+
+Hotel Timeline: 
+
+* 1287 Mention of the first inn here in Norwich court records Murtle Fish Tavern.
+* 1359 Edward the Black Prince, eldest son of King Edward III, stays here after a jousting competition. He also goes to mass at St Simon and St Jude Church.
+* 1472 John Paston confirms the name change to Maids Head in a letter, recommending the inn as a good place to stable your horse.
+* 1520 Queen Catherine of Aragon, King Henry VIII’s first wife is entertained here.
+* 1578 Queen Elizabeth I visits Norwich, the room was renamed in her honour.
+* 1637 Anthony Mingay writes recommending the Maids Head as a safe place to stay during an outbreak of plague.
+* 1762 Maids Head is the Norwich terminus for the Norwich Machine, a coach that travelled every Monday, Wednesday and Friday to London.
+* 1956 The Cavell Hotel and Eve’s Restaurant, formerly Cavell Home for District Nurses, next door on Tombland, is acquired by the Maids Head and incorporated.
+* 1971 The Maids Head appears in the film of The Go Between, with Marian and Leo having lunch in The Oak Room.
+
+### Louis Marchesi Pub 
+
+This lovely Grade II listed Tudor style building, set in the pleasant Tombland area of the city, dates back to 1771, although it was build on the site of a much older 14th Century. It has one of the city’s oldest crypts still in use, which hosts many types of events. The pubic house was previously called The Waggon and Horses.
+
+Louis Marchesi founded the Round Table Great Britain and Ireland in 1927, an international fellowship and community charitable organisation for young men. The meeting was held in this very building, which was renamed in his honour in 1976; today, the Round Table numbers some 30,000 members worldwide.
+
+### Augustine Steward's House
+
+One of the most recognisable historic landmarks in Norwich, and probably one of the most photographed buildings in East Anglia, this attractive timber-framed building stands directly opposite the main entrance to the Cathedral Close. The house was re-built in 1530 for Augustine Steward, and was famously used by royal troops sent to quash the 1549 Kett Rebellion.
+
+Augustine Steward (1491 - 1571) was born in a house directly opposite the Erpingham Gate to Norwich Cathedral's Close in 1491. His father was a successful mercer and alderman, so Augustine, commonly called Austen, was born into a well-to-do family. Augustine became a successful mercer in his own right, and re-purchased the house in Tombland where he was born. He married twice, and had 11 children in total. In 1522 he became a councillor, and alderman in 1526, and Sheriff the same year. He was elected mayor 3 times; in 1534, 1546, and 1556, a record matched by only 2 other men in the 16th century.
+
+Steward led negotiations between the rebels and the king's army, and entertained the king's representative, the Marquis of Northampton, at his house. Some of Kett's more uncontrollable followers looted Steward's house, but did not harm him or his family.
+
+The house is a typical example of a Tudor merchant's town house, built with both commerce and living comfort in mind. There is a stone undercroft for goods storage, with a shop at street level. Family roos were on the upper storeys, jettied out over the ground floor to maximise floor space.
+
+The timbers supporting the upper floors have warped and twisted over the centuries, making it look as though the house is in imminent danger of collapse. One projecting wing of timber and brick is set over the entrance to Tombland Alley.
+
+On a corner stone of this projection, you can see the date 1549 and Steward's merchant's mark, along with the mercer's gild insignia. According to local legend, there are secret passages from the crypt to the Cathedral and to St Gregory's church.
+
+## Norwich Cathedral
 
 In the year 672, the Archbishop of Canterbury, Theodore of Tarsus, divided the Kingdom of East Anglia into two dioceses: one covering Norfolk with its episcopal seat at Elmham; the other covering Suffolk with its seat at Dunwich. Following the Norman Conquest, the seats were moved to more secure urban centres, that of Elmham being transferred to Thetford in 1072, and finally to Norwich in 1094. The new cathedral was dedicated to the Holy and Undivided Trinity.
 
@@ -236,18 +282,39 @@ The cathedral was partially in ruins when John Cosin was at Norwich School in th
 
 The mob also fired their muskets. At least one musket ball remains lodged in the stonework. Only at the Restoration in 1660 would the cathedral be restored.
 
-19th and 20th centuries
-
-The pulpitum
 In the 1830s the south transept was remodelled by the English architect Anthony Salvin. In 1930–1932 a new Lady Chapel, designed by Charles Nicholson, was built at the east end, on the site of its 13th-century predecessor, which had been demolished during the late 16th century.
 
-The cathedral is included as one of the "Norwich 12", a list of the city's most iconic buildings produced as part of an initiative launched in 2008 by the Norwich Heritage Economic and Regeneration Trust.
+### Exterior
 
-https://www.visitnorwich.co.uk/article/the-norwich-12/
+The tower, the most ambitious of all the Norman towers to have survived in England, is decorated with geometrical circles, lozenges and interlaced arcading.
 
+The spire is of brick faced with stone, supported on brick squinches built into the Norman tower. At 315 ft (96 m) high, the spire is the second tallest in England; only that of Salisbury is taller at 404 ft (123 m).
 
+Norwich Cathedral has the second largest cloisters in England, only exceeded by those at Salisbury Cathedral. It has two-storeys, the only example of its kind in England and nearly 400 carved stone ceiling bosses.
 
+### Interior
 
+The eastern end of the cathedral, near to the sanctuary, is in the form of an apse The tribune (the vaulted area within the apse) is unusually tall, and contains piers with large capitals.
+
+Norwich no longer has its rood screen, which would have been used to support the great crucifix. It was located one bay west of the pulpitum (the screen that separated the nave from the choir). The aisles are vaulted in stone, but lack ribs.
+
+The Anglican cathedrals at Norwich, Salisbury, and Ely are the only ones that have no ring of bells. The original clock at Norwich Cathedral was one of the earliest mechanical timekeepers made in Britain.
+
+### The Close (The Cathedral Precinct)
+
+The precinct, or cathedral close, is enclosed within the limits of the former monastery. It is bordered by the Tombland area (the Anglo-Saxon market place) and the Wensum. It contains buildings from the 15th to the 19th centuries, including the remains of an infirmary. The close has an area of 85 acres (34 ha) and is notable for being located within the city's defensive walls. In medieval times it occupied a tenth of the total area of the city.
+
+The grounds also house many of the buildings of Norwich School, as well as statues of the leading military and political figure, the Duke of Wellington and the British Naval officer Admiral Nelson, and the grave of the British nurse Edith Cavell, who was executed for helping Allied soldiers escape from German-occupied Belgium during World War I.
+
+There are two gates leading into the cathedral grounds, both on Tombland street. The Ethelbert Gate takes its name from a Saxon church that stood nearby. The original gate was destroyed in the riot of 1272, and its replacement was built in the early 14th century. It has two storeys, the upper originally a chapel dedicated to Saint Ethelbert and decorated with flushwork. In 1420 Thomas Erpingham, benefactor to the city, had the gate which bears his name built, sited opposite the west door of the cathedral and leading into the close. There a third gate d the Bishop gate which leeds to the bishop house with no public access.
+
+The Great Hospital
+
+The Great Hospital is a medieval hospital that has been serving the people of Norwich in Norfolk, UK, since the 13th century. It is situated on a 7-acre (2.8 ha) site in a bend of the River Wensum to the north-east of Norwich Cathedral. Founded in 1249 by Bishop Walter de Suffield, the hospital was originally known as Giles's Hospital. What makes the hospital notable today is its history of continuous care, the range of existing medieval buildings on the hospital grounds (most of which are still in use), and the extensive archives that record the hospital's long history.
+
+The original beneficiaries of the hospital were aged priests, poor scholars, and sick and hungry paupers. Clerics remained unmarried in this period, so they had no family to support them in old age. The poor scholars, boys selected on merit from local song schools, were to receive a daily meal during term times. This was to continue until the boy had achieved a good grasp of Latin. With this help, bright but poor boys were given the chance to train as choristers or even to enter the priesthood.
+
+Saint Helen Church, a Grade II* Listed building, is also now part of the Norwich Great Hospital however this was originally a residence separate from the Hospital.
 
 ## Elm Hill
 
@@ -284,7 +351,11 @@ After the war the building was sold to the council for a sum of £10, and in '54
 St Simon and St Jude's Church, Norwich is a Grade I listed redundant parish church in the Church of England in Norwich.
 The church dates from the 14th century. From 1952 it was used as a Scout Hall.
 
-## Timber Hill 
+## Timber Hill
+
+### The Gardeners Arms
+
+Great beer, fantastic food, relaxed and comfortable suroundings. The Murderers freehouse dates back to 1530 and is one of the last family owned public houses in Norwich City Centre kept in traditional state and full of nooks ‘n’ cranies.
 
 ## Tombland
 
@@ -301,6 +372,8 @@ The church dates from the 14th century. From 1952 it was used as a Scout Hall.
 ## Norwich Castle
 
 ## References
+
+https://www.visitnorwich.co.uk/article/the-norwich-12/
 
 Credit goes to:
 [Haydn Brown](https://norfolktalesmyths.wordpress.com)
