@@ -12,6 +12,11 @@ Norwich claims to be the most complete medieval city in the United Kingdom. It i
     - [Middle Ages](#middle-ages)
     - [20th century](#20th-century)
     - [World War II and Post-war redevelopment](#world-war-ii-and-post-war-redevelopment)
+  - [River Wensum](#river-wensum)
+    - [Pull’s Ferry](#pulls-ferry)
+    - [Lollards Pit – A Grim Tale of Persecution](#lollards-pit--a-grim-tale-of-persecution)
+    - [Cow Tower](#cow-tower)
+  - [Norwich Cathedral](#norwich-cathedral)
   - [Elm Hill](#elm-hill)
     - [St Peter Hungate](#st-peter-hungate)
     - [Britons Arms](#britons-arms)
@@ -24,6 +29,7 @@ Norwich claims to be the most complete medieval city in the United Kingdom. It i
   - [Strangers' Hall](#strangers-hall)
   - [1899 Royal Arcade](#1899-royal-arcade)
   - [Norwich Castle](#norwich-castle)
+  - [References](#references)
 
 
 ## History
@@ -152,6 +158,97 @@ As the war ended, the city council revealed what it had been working on before t
 
 In 1960, the inner-city district of Richmond,[citation needed] between Ber Street and King Street, locally known as "the Village on the Hill", was condemned as slums and many residents were forced to leave by compulsory purchase orders on the old terraces and lanes. The whole borough demolished consisted of some 56 acres of existing streets, including 833 dwellings (612 classed as unfit for human habitation), 42 shops, four offices, 22 public houses and two schools. Communities were moved to high-rise buildings such as Normandie Tower and new housing estates such as Tuckswood, which were being built at the time. A new road, Rouen Road, was developed instead, consisting mainly of light industrial units and council flats. Ber Street, a once historic main road into the city, had its whole eastern side demolished. About this time, the final part of St Peters Street, opposite St Peter Mancroft Church, were demolished along with large Georgian townhouses at the top of Bethel Street, to make way for the new City Library in 1961. This burnt down on 1 August 1994 and was replaced in 2001 by The Forum.
 
+
+
+## River Wensum
+
+The river receives its name from the Old English adjective wandsum or wendsum, meaning "winding".
+
+### Pull’s Ferry
+
+Faced with an unfamiliar city, the temptation for many visitors is to head straight for the city centre. This is particularly true in Norwich and for those who arrive by train – the station forecourt seems to point you towards the bridge over the river which will lead to Prince of Wales Road the shops, castle, museum and much more. Those who resist this temptation and take the river path instead will find, just a stone’s throw away to the right, a real gem of the city’s history – Pull’s Ferry, sitting pretty on the River Wensum and one of the most famous landmarks in Norwich.
+
+Pull’s Ferry is a 15th century medieval Watergate but it came centuries after a more ancient waterway was dug by monks. You see – both before and during the medieval period, transportation was a persistent problem, especially the transportation of heavy building materials. Roads were poor – if they existed at all, so bulk item were, of necessity, transported by boat. So it was in Norwich. Before any work could begin on building the proposed Priory and the 11th century Cathedral such a canal was needed to bring the materials direct on to the site. As well as stone, there was timber from the Baltic and iron from Sweden. But it was not only building materials that came via the canal; peat would also arrive, from what were to become the present-day Norfolk Broads, to be used as fuel in the Priory kitchens. However, it seems that over the centuries, the heavy stone used to build this holy place received most, if not all, of the publicity. Maybe this was because it’s journey was so long and arguably hazardous – for it came from France.
+
+To be precise, this stone came from the quarries near Caen and would travel up and across the channel and onwards along the rivers Yare and Wensum to the Norwich building site that was to become both a Priory and Cathedral. This new Seat for a Bishop would serve as the central church for the Norwich Diocese, the work starting in 1096 and completed sometime between 1121 and 1145. During all this time, there was no port at Yarmouth and because sea-going ships were comparatively small they were able to make such a complete journey from France to Norwich. This must have certainly made the rivers Yare and Wensum places of great activity, because not only was materials being brought in for the Cathedral, but also for the Castle too.
+
+The present short dyke which connects the river to Pulls Ferry itself is all that remains of the waterway which existed until 1772 when it was filled in and built upon. Before then, this same waterway flowed under the arch of the Watergate and deep into the Cathedral Close; having given its assistance to construction, it was the means by which river traffic was able to bring on-going goods and materials right up to the Cathedral and the accommodation thereabouts.
+
+It was in the 15th century that the arched Watergate was built across this canal; it is this same structure that is the most obvious historical feature of Pulls Ferry today. The Watergate served to guard the approach to the Cathedral, and it was not until the Priory was dissolved by Henry VIII in the 16th century that the current Ferry House was built in 1647, thus incorporating the Watergate. The house itself was both an inn and the home for the ferryman who transported people across the Wensum. The first ferryman was named Thomas Howes, or Holmes but Ferry House was never named after him. Instead, it had been known as Sandlins or Sandling’s Ferry, a name that it would keep for at least 200 years, presumably after a 17th century predecessor. Certainly, at the time that Blomefield was writing his ‘Topographical History of Norfolk’ in the 18th century it was still called Sandling’s Ferry.
+
+Then along came 28 year-old John Pull to become ferryman and publican for the next 45 years – between 1796 and 1841; probably the last licensee to do so. Apparently Pull got married the year after he took the post, to Ann Haywood who lived for only a few years, dying in 1800. The couple had a son, John, in 1798, who was baptised at St John Timberhill. John Pull married again in January 1802, to Ann Steers. A child was born to the couple in the June, which suggests that it was either very premature, or the marriage was one of necessity! But, there were tragic consequences – that child died only a week after being baptised. The Pulls, however, went on to have five more children but only three survived beyond childhood. Ann Pull ‘the second’ died in 1837 at the age of 52, and her husband, John Pull, followed in 1841, aged 73.
+
+The pub closed sometime before 1900, and the building became derelict. As for the ferry, this operated until 1943, although with Bishops Bridge only a stone’s throw away one wonders why there was ever a need for a ferry. The answer may lay in the historical fact that Bishops Bridge had been a toll bridge into the Middle Ages and that Pulls Ferry was a cheaper way for foot passengers to cross the river. However, by the middle of the 20th century all other ways of crossing from Norwich were free. It should also not be forgotten, if one ever knew at all, that before the building of Riverside Walk, the way to the Bishops Bridge involved a lengthy walk through the Cathedral Close. But, it still seems difficult to imagine who would have used the ferry, unless they actually lived or worked in the Close – particularly since the ferry could not have been free. Maybe, and some possibly think this, the ferry was kept open by the request of the Cathedral Dean and Chapter?
+
+
+### Lollards Pit – A Grim Tale of Persecution
+
+ It does not take too much imagination to create a 15th or 16th century scene where the condemned are seen walking from their place of imprisonment in Norwich Castle or the City’s Guildhall jail, through the streets and past the Cathedral towards Bishopsbridge and the place of execution beyond. Unquestionably, the route taken would be thronged with the inquisitive, those who were sympathetic, others who were downright hostile and some who were simply curious but with no feelings one way or the other. The parade of unfortunates would eventually preceed over the ancient Bridge and into a chalk pit on the other side of the river Wensum. There the faggots would be piled high and ready. The Church, having handed over the condemned to the secular authorities, would step out of the limelight whilst the executions took place – burning the condemned ‘at the stake’. The Church’s preferred way was to claim the authority to sentence but not kill – it kept things neat and tidy! As for those on the wrong side of the Church’s principles and laws well, they were disposed of. In Norwich they went to the chalk pits, for no other reason than for their religious beliefs. The name for these unfortunates was ‘Lollards’.
+
+John Wycliffe was an English Christian theologian who became popular for translating the Bible into vernacular (common) English in 1382. During this time, the Bible was usually only available in Latin, the language used by the Church and the Upper Classes. Many regular men and women were therefore not able to read the Bible for themselves. Wycliffe wanted to change that and he did so by translating the Latin Bible (the Vulgate) into the people’s common language. As professor of theology at Oxford University, Wycliffe also challenged the Catholic Church on numerous points of doctrine. He felt that the Church was too institutionalised and had become corrupt. He promoted a personal type of Christianity – one that emphasised piety, humility and simplicity.
+
+After Wycliffe had been dead for about 40 years, the Church declared him a heretic and afraid that his grave would become a religious shrine, Richard Fleming, Bishop of Lincoln and acting on the instructions of Pope Martin V, ordered officials to exhume the bones, burn them, and scatter the ashes on the River Swift. Thereafter, events saw the beginning of what was to be a conserted persecution of Lollardy over a large area of England.
+
+The Lollards were part of a movement that existed from the mid-14th century and up to the English Reformation, inspired, if not led, by John Wycliffe, a Roman Catholic theologian who was dismissed from the University of Oxford in 1381 for criticism of the Roman Catholic Church. The Lollards’ demands, in line with Wycliffe’s thinking, were primarily for the reform of Western Christianity and in this they had much in common with the Protestants who would follow more than a century later. Amongst the many beliefs held by the Lollards, was that the Catholic Church’s practices of baptism and confession were unnecessary for salvation. They also considered that praying to saints and honouring their images was a form of idolatry. Oaths, fasting, and prayers for the dead were thought to have no scriptural basis and they had a poor opinion of the trappings of the Catholic church, including holy bread, holy water, bells, organs, and church buildings.
+
+By 1395, the Lollards had their own ministers and were winning popular support but were to be subjected to extreme measures of persecution. Throughout England they, increasingly, were hunted down, imprisoned, tortured and frequently burnt at the stake as heretics. Clearly, the religious and secular authorities were strongly opposed to the them and a primary early opponent was Thomas Arundel, Archbishop of Canterbury. He was ably assisted by none other than Henry le Despenser of Norwich of whom the Chronicler, Thomas Walsingham praised for his zeal! In 1410, John Badby, a layman and craftsman who refused to renounce his Lollardy was burnt at the stake; he was the first layman to suffer capital punishment in England for the crime of heresy. John Foxes Acts and Monuments, popularly known as Foxes Martyrs, tells many of their stories although with a strong anti-Catholic bias.
+
+The Norwich Heresy Trials of 1428 to 1431 saw fifty-one men and nine women prosecuted for heresy – four were priests.
+
+Persecution of heretics in Norwich tailed away after 1431 but was to return in 1531 when the Reformation (1517 – 1648) ensured further persecutions in Norwich – they had, of course, continued in other areas of England
+
+The climax to burning at the stake came during the reign of Mary (1553-58). Up to 50 people died during this time, under the religious conservative Bishop Hopton. In 1557 pewterers wife Elizabeth Cooper and Simon Miller, of Kings Lynn, were executed. Cooper had interrupted a service at St Andrews to retract her earlier recantation of Protestantism. As the two went to Lollards Pit, a Cecily Ormes declared her support for them.
+
+For many years after the exercutions ended the area surrounding Lollards Pit was shunned by local people, many of whom feared evil connotations. Later it became a tannery, where wherrymen used to load and unload cargo, also it was a convenient place to dump the City’s rubbish and later it was used as a camp for gipsies. In modern times, as the area became more developed, local children would play there, unbothered by the ghosts of the past.
+
+Today the Lollards Pit (formerly the Bridge House) pub has a plaque fixed to its wall marking the site of the infamous pit. Inevitably, it is sometimes claimed that eerie ghostly screams may be heard in the pub late at night. Claims also refer to terrified witnesses having seen ghostly black figures in the pub’s corridor and on one occasion, a shocking apparition of a woman engulfed in flames was claimed to have been seen before she quickly vanished into thin air; this suggests that, maybe, spirits are not confined to the bottles on the other side of the bar!
+
+On the other side of Riverside Road, on the riverbank, is another commemorative plaque which hails the executed as martyrs, naming up to a dozen who died so horribly in Lollards Pit centuries ago.
+
+### Cow Tower 
+
+One of the earliest purpose-built artillery blockhouses in England, Cow Tower was built in 1398–9 to control a strategic point in Norwich’s city defences.
+
+The tower was intended to house guns and a garrison of gunners to defend the approach to the city across the River Wensum. Its height of over 15 metres (49 feet) was necessary to overlook the high ground on the opposite bank.
+
+Built with widely splayed gun ports, the tower was suitable for the recently developed cannon while the ‘arrow loops’ could still be used for crossbows and small guns. The tower was built as an addition to the defences already encircling medieval Norwich.
+
+The walls of the tower were built with a core of mortared flint rubble, faced internally and externally with brick, with external stone dressings. The ground floor may have been a communal dining room when the tower was garrisoned, with sleeping quarters on the upper two levels.
+
+It seems likely that the origin of the tower’s name is derived from the surrounding meadow, previously known as Cowholme.
+
+## Norwich Cathedral
+
+We enter through bishop gate into the garden of Norwich Cathedral.
+
+In the year 672, the Archbishop of Canterbury, Theodore of Tarsus, divided the Kingdom of East Anglia into two dioceses: one covering Norfolk with its episcopal seat at Elmham; the other covering Suffolk with its seat at Dunwich. Following the Norman Conquest, the seats were moved to more secure urban centres, that of Elmham being transferred to Thetford in 1072, and finally to Norwich in 1094. The new cathedral was dedicated to the Holy and Undivided Trinity.
+
+The structure of the cathedral is primarily in the Norman style, having been constructed at the behest of the first bishop of Norwich, Herbert de Losinga, who had bought the bishopric for £1,900 before its transfer from Thetford. It still retains the greater part of its original stone structure. An Anglo-Saxon settlement and two churches were demolished to make room for the buildings and a canal cut to allow access for the boats bringing the stone and building materials which were taken up the River Wensum and unloaded.
+
+The cathedral was damaged after riots in 1272, which resulted in the city paying heavy fines levied by Henry III, king of England. The cathedral was re-consecrated in the presence of Edward I of England on Advent Sunday, in 1278.
+
+The Norman spire was blown down in 1362. Its fall damaged the east end of the building. In 1463 the spire was struck by lightning, causing a fire to rage through the nave which was so intense it turned some of the cream-coloured Caen limestone a pink colour. In 1480 the bishop, James Goldwell, ordered the building of a new spire which is still in place today.
+
+16th and 17th centuries
+The composer and 'singing man' Osbert Parsley worked at Norwich Cathedral for 50 years, until his death in 1585.
+
+The cathedral was partially in ruins when John Cosin was at Norwich School in the early 17th century and the former bishop was an absentee figure. In 1643 during the Civil War, an angry Puritan mob invaded the cathedral and destroyed all Roman Catholic symbols. The building, abandoned the following year, lay in ruins for two decades.
+
+The mob also fired their muskets. At least one musket ball remains lodged in the stonework. Only at the Restoration in 1660 would the cathedral be restored.
+
+19th and 20th centuries
+
+The pulpitum
+In the 1830s the south transept was remodelled by the English architect Anthony Salvin. In 1930–1932 a new Lady Chapel, designed by Charles Nicholson, was built at the east end, on the site of its 13th-century predecessor, which had been demolished during the late 16th century.
+
+The cathedral is included as one of the "Norwich 12", a list of the city's most iconic buildings produced as part of an initiative launched in 2008 by the Norwich Heritage Economic and Regeneration Trust.
+
+https://www.visitnorwich.co.uk/article/the-norwich-12/
+
+
+
+
+
 ## Elm Hill
 
 Elm Hill, Norwich is a historic cobbled lane in Norwich, Norfolk with many buildings dating back to the Tudor period. It is a famous Norwich landmark and features the Briton's Arms coffee house, The Stranger's Club, Pettus House (Elm Hill Collectables),The Tea House (in Wrights Court) and the Dormouse Bookshop.
@@ -202,3 +299,10 @@ The church dates from the 14th century. From 1952 it was used as a Scout Hall.
 ## 1899 Royal Arcade
 
 ## Norwich Castle
+
+## References
+
+Credit goes to:
+[Haydn Brown](https://norfolktalesmyths.wordpress.com)
+[Wikipedia]()
+[English Heritage](https://www.english-heritage.org.uk)
