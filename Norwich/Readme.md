@@ -30,13 +30,17 @@ Norwich claims to be the most complete medieval city in the United Kingdom. It i
     - [St Simon and St Jude's Church](#st-simon-and-st-judes-church)
   - [Timber Hill](#timber-hill)
     - [The Gardeners Arms](#the-gardeners-arms)
-  - [Tombland](#tombland-1)
-  - [St Andrew's Hall](#st-andrews-hall)
+  - [St Andrews \& Blackfriars Hall](#st-andrews--blackfriars-hall)
   - [Dragon Hall](#dragon-hall)
+  - [St Julian's Church](#st-julians-church)
   - [The Guildhall](#the-guildhall)
   - [Strangers' Hall](#strangers-hall)
-  - [1899 Royal Arcade](#1899-royal-arcade)
+  - [George Skipper](#george-skipper)
+    - [Royal Arcade](#royal-arcade)
+    - [Surey house (Marble Hall)](#surey-house-marble-hall)
+    - [Jarrolds Store](#jarrolds-store)
   - [Norwich Castle](#norwich-castle)
+  - [Catholic Cathedral - The Cathedral of St John the Baptist](#catholic-cathedral---the-cathedral-of-st-john-the-baptist)
   - [References](#references)
 
 
@@ -215,17 +219,22 @@ On the other side of Riverside Road, on the riverbank, is another commemorative 
 
 ### Cow Tower 
 
-One of the earliest purpose-built artillery blockhouses in England, Cow Tower was built in 1398–9 to control a strategic point in Norwich’s city defences.
+Cow Tower is a cylindrical brick tower built in the late 14th century as part of the defences of Norwich. The Tower is one of the earliest artillery blockhouses in England. The time of the construction, brick was seldom used in major building work; indeed, Cow Tower may be the first major brick building in England. The tower replaced an earlier toll house attached to a 13th-century Benedictine monastery.
+By 1378 the toll house was considered ruinous, and the site was converted into an artillery tower to form part of the city's defences. The tower provided 12 gun ports, though the small size of the gun ports indicates that they could only have been used for handheld guns. Larger guns would have been placed on the roof so that they could fire through gaps in the parapet.
 
-The tower was intended to house guns and a garrison of gunners to defend the approach to the city across the River Wensum. Its height of over 15 metres (49 feet) was necessary to overlook the high ground on the opposite bank.
+In 1549 the tower was put under fire by Robert Kett's rebels, who were trying to enter the city over nearby Bishop Bridge. A shot from Kett's gunners struck the top of the tower, and you can still see the damage.
 
-Built with widely splayed gun ports, the tower was suitable for the recently developed cannon while the ‘arrow loops’ could still be used for crossbows and small guns. The tower was built as an addition to the defences already encircling medieval Norwich.
-
-The walls of the tower were built with a core of mortared flint rubble, faced internally and externally with brick, with external stone dressings. The ground floor may have been a communal dining room when the tower was garrisoned, with sleeping quarters on the upper two levels.
+The tower stands 15 metres high and has an internal diameter of about 7 metres.
 
 It seems likely that the origin of the tower’s name is derived from the surrounding meadow, previously known as Cowholme.
 
 ## Tombland
+
+Tombland is the very heart of Norwich, the centre of activity here before the Norman's arrived in England in 1066. In this area was the palace of the Earl of East Anglia, and St Michael's church, the largest in Norwich.
+
+You might be forgiven for imagining that the name 'Tombland' comes from some long past use as a burial ground. Nothing could be further from the truth; the name comes from two Old English words meaning 'open ground', or empty space. This open ground was used as the main market place for Norwich; the hub of commercial activity and town life.
+
+At least it was before the Normans arrived and built an imposing castle on a high mound to the south. The Normans moved the main market area to an open space at the foot of the castle mound, at least partly so they could keep a close eye on what passed. They also transformed Tombland; Bishop Henry de Losinga pulled down the earl's palace and St Michael's church and built a grand new Norwich Cathedral closer to the River Wensum.
 
 ### Maids Head Hotel
 
@@ -357,19 +366,202 @@ The church dates from the 14th century. From 1952 it was used as a Scout Hall.
 
 Great beer, fantastic food, relaxed and comfortable suroundings. The Murderers freehouse dates back to 1530 and is one of the last family owned public houses in Norwich City Centre kept in traditional state and full of nooks ‘n’ cranies.
 
-## Tombland
+## St Andrews & Blackfriars Hall
 
-## St Andrew's Hall
+St Andrew's Hall and Blackfriars' Hall or The Halls are a Grade I listed complex of former friary church and convent buildings in the English city of Norwich, Norfolk, dating back to the 14th century. They make up the most complete friary surviving in England.
 
-## Dragon Hall 
+In the mid 13th century a religious order called the Friars of the Sack settled in Norwich, in the parishes of St Andrew and St Peter Hungate. By the early 14th century, the group was in decline. In 1307 the Dominican Order, also called the Black Friars because of the colour of their habit, took over the site by royal licence under the condition they cared for the last remaining friar.
 
-## The Guildhall 
+The first church and buildings were destroyed in 1413 in a serious fire which destroyed a large part of the city. The second church building which survives today was completed in 1470. The nave of the new church now forms St Andrew's Hall; the chancel (of five bays), Blackfriars’ Hall. There is also a crypt, chapel and cloisters.
+
+During the Reformation, the site was saved by the City Corporation, which bought it from the king for use as a 'common hall.' Since then the complex has been used for worship, as a mint and as a workhouse. It has been used regularly for civic occasions since 1544, when the first Mayor's feast was held for the inauguration of Henry Fuller. The Norwich Triennial Festival, the third oldest in the country, began here in 1824.
+
+## Dragon Hall
+
+In 1427 a successful Norwich merchant named Robert Toppes built a trading hall close to the River Wensum. The long rectangular building had a timber-framed hall on the first floor, open to a superb crown post roof. One of the roof timbers is carved with the likeness of a dragon, and it is this hand-painted carving that gives the Hall its name.
+
+The Dragon Hall site was in use long before Robert Toppes appeared, though. In the 14th century, part of the site was owned by Woburn Abbey, and there may have been a smokehouse here for preserving herring.
+
+The other half of the site was owned by a merchant named John Page, who maintained a traditional hall house. Around 1330 Page extended his hall with an undercroft for storage, beneath a service block for storing foodstuffs.
+
+The quality of the material used in construction suggests that Page set out to make a splash and impress people with his wealth and status. The basic house was an open hall, with a private solar, or family room, at one end. The open hall layout is preserved today in the Hall's meeting room.
+
+In the late 14th century the entire site was combined into a single property by the Midday (or possibly the Clere) family. Then Robert Toppes acquired the property and set about constructing his grand new trading hall. Toppes (c.1405-1467) traded across Europe, importing and exporting spices, cloth, pottery, and wool.
+He also had real estate holdings and may have been a money-lender as well. He was influential in civic government and was elected 4 times as Lord Mayor of Norwich, and he represented the city in Parliament. He was a member of the Guild of St George, a trade organisation of local merchants. The symbol of the guild was a dragon, and this may account for the dragon carving that gives the Hall its name.
+
+In today's parlance, Toppes was an entrepreneur, and he needed a focal point for his trading activities.
+What makes Dragon Hall unique is that it was built by a single person. There were plenty of merchant halls built by guilds and trade groups (for example, the Merchant Adventurers Hall in York), but nowhere in England is there a hall built by one individual. Toppes wanted his Hall to be both a shop and a warehouse, with long-term storage facilities.
+
+The Great Hall was the showpiece of Dragon Hall, built to impress trading partners and buyers. The superb crown-post roof was meant to draw the eye, as were three glazed oriel windows; glazed at a time when glass in a private house was a rarity. On the ground floor and undercroft were storage areas and workspace.
+Toppes did not live here; he and his family (2 successive wives, 7 children) lived near the market place at the heart of medieval Norwich.
+Toppes died in 1467 and was buried in St Peter Mancroft church. In his will, he left a bequest of 3s 4d to every church in Norwich. The fact that Norwich had more churches by area than any place in medieval England gives you an idea of just how wealthy and successful Robert Toppes was.
+
+There were further bequests of 2d to every prisoner in Norwich Guildhall and every leper outside the gates. There was another interesting clause in the will; Dragon Hall was to be sold, and the money used to pay for priests to say mass for the souls of Toppes and his family.
+
+After Toppes' death the building was converted into a private dwelling. During the 19th century the building was divided into a terrace of separate shops, flats, and a pub and the medieval roof was hidden.
+
+The Hall was set in a crowded area of tenement slums known as Norwich Yards. In the 1930s the civic government cleared the slums, leaving only one cottage in the area behind Dragon Hall. This cottage has now been incorporated into the Dragon Hall complex. The true nature of the building was only rediscovered in the 1980s, since when it has undergone a sensitive restoration to showcase the original 15th-century building.
+
+Parts of the Hall are used to tell the story of Toppes and the bustling commercial life of late medieval Norwich. On the top floor are activity areas, frequently used for events such as weddings, parties, and fairs. The Hall is run by an independent charitable trust.
+
+This truly is a wonderful historic building. The medieval architecture is simply stunning, and the historical displays truly bring the building and the era of Robert Toppes to life.  Dragon Hall is fascinating, and set in an area of the city often overlooked by visitors. Just a few short steps away is the cell of St Julian of Norwich, the medieval mystic and writer (All Shall be Well).
+
+Dragon Hall is currently home to the National Centre for Writing. The Hall is now used for literary events, workshops, and writing courses. The Dragon Hall Heritage Volunteers give guided tours twice a month. There is no need to book. A donation towards maintenance costs is requested.  Find dates and times on the Dragon Hall website. 
+
+## St Julian's Church
+
+St Julian's Church, Norwich, is a Grade I listed parish church in the Church of England in Norwich, England. It is part of the Diocese of Norwich. During the Middle Ages, when the city was prosperous and possibly the second largest city in medieval England, the anchoress Julian of Norwich lived in a cell attached to the church. The cell was demolished during the 1530s.
+
+An early church on the site of St Julian's Church was destroyed in 1004 when the Vikings attacked Norwich. The medieval church was built in the 11th and 12th centuries. Between 1269 and 1305 the parish associated with the nearby church of St Edward King and Confessor was united with St Julian's.
+
+The original dedication of the church is uncertain; it was possibly dedicated to Julian the Hospitaller, but was also considered to have been dedicated to a female saint, Juliana of Nicomedia. Alan Butler, chaplain to Edward Howard, 9th Duke of Norfolk (1686 – 1777), suggested that the dedication was to Saint Julian of Le Mans, an idea refuted by the Norwich stonemason Robert Flood in his 1936 booklet A Description of St Julian's Church, Norwich and an Account of Dame Julian's Connection with it. In 1135, Stephen, King of England put the church under the authority of Carrow Abbey. The prioress and nuns appointed the priest at St Julian's, and maintained the church.
+
+By the middle of the 14th century, Norwich likely had a population approaching 25,000, a figure not reached again until the late 16th century. Second only in size to London, it was a relatively wealthy city with a densely populated and prosperous hinterland. Besides possessing a cathedral, it had five monasteries, a convent, and a greater number of parish churches than any city in medieval England other than London.[note 1] Through its trading links with the Low Countries and the Rhineland, at that time the most fertile areas for religious developments north of the Alps, the region probably had access to new religious ideas then prevalent in northern Europe.
+
+During the late Middle Ages, Norwich had an exceptionally large number of hermits and anchorites in comparison with other English towns. The mystic and anchoress (or female recluse) now known as Julian of Norwich lived in a cell attached to the church, which was then in an industrial area of the city, close to the quays of the River Wensum.
+Julian was born in 1343 or late 1342; her date of death is unknown, but she is thought to have died after 1416. It is possible that her name may have been taken from St Julian's Church, but Julian was a common girl's name during the 14th century, and it is likely to have been her actual name.
+Upon entering her cell for the first time, Julian would have been cut off from the world of the living; the cell door connecting her with the church would have been sealed, with a small window to allow her to witness masses, and perhaps another to receive callers.
+
+Julian is the first woman whose writings in English have survived. Her book, commonly called Revelations of Divine Love, was written in two versions, now usually referred to as the Short Text and the Long Text. The earlier Short Text was written after she received a series of 16 mystical revelations, following her recovery from an illness that brought her close to death.
+It has been speculated that one of the prioresses of Carrow, Edith Wilton, provided Julian with her writing materials. In 1428, another anchoress, Julian (or Juliana) Lampet, was installed in the cell and lived there for 50 years.
+
+## The Guildhall
+
+A Norwich landmark, this striking building of chequerboard flint and stone stands on the north side of the large market place in the centre of the old city.
+
+The Guildhall was built in 1407 to provide space for civic government and administration of justice. The core of the building was completed by 1412, but a west tower and porch were added in 1435.
+
+Even then the windows remained unglazed, and it was not until 1453 that the final window received glass. in 1511 the tower collapsed, as well as the roof over the Council Chamber. The roof was repaired but the tower was never rebuilt.
+
+In 1857 a Tudor door from a nearby Goldsmith's shop was inserted into the south-west wall. This became known as the Bassingham Gate. The final change took place in 1861 when a police station was added to the west end, and many of the windows were renovated in Victorian Gothic style.
+
+In addition to a court room, the original 15th-century building had a small gaol and chapel, an accounting office, and a place for tax collection. There were offices for civic officials including a sheriff, and storage areas for civic regalia, official records, and a strongroom for money. The two main chambers were an Assembly Chamber, which also served as a Sheriff's Court, and a Council Chamber, or Mayor's Court.
+
+The Assembly Chamber held meetings of the full Council in the medieval period, but it is now furnished as a Victorian courtroom. The loft space above this chamber was used for storing weapons, and for that reason it is also called the Sword Room. The Mayor's Court is the most ornately furnished room; it is panelled with oak, and topped by a tie-beam roof decorated with Renaissance carvings.
+
+The most ornate part of the building is the east end, with the flint work so common in this part of Norfolk. The chequerboard pattern is made from alternating squares of flint and dressed ashlar stone.
+
+Under the east end is an undercroft, which actually predates the Guildhall. This storage area is thought to belong to a toll-booth which stood here before the Guildhall was erected. Despite its name, the toll-house was not concerned with collecting levies, but rather it was a prison for dangerous criminals, and the undercroft may have been used as a prison cell.
+
+One famous prisoner was Thomas Bilney (c.1495 - 1531). Bilney was a Protestant priest and vociferous opponent of idolatry (such as the worship of saints and their relics). He was arrested in 1531 after giving an English translation of the New Testament to a Dominican anchoress. He was found guilty of heresy and burned at the stake at Lollard's Pit.
+
+Today the ground floor of the hall is let to a number of small businesses; the ground floor ex-courtroom hosts a cafe at present, and the building is open during cafe hours. As of spring 2018, experienced guides run a tour of the administrative chambers on the upper floor on Monday afternoons. Additionally, groups can pre-book tours through the Tourist Information Centre. (There are charges for the tours.)
 
 ## Strangers' Hall
 
-## 1899 Royal Arcade
+Strangers Hall is a marvellous Tudor merchant's house, used as a museum of local history since the 1930s. The house boasts richly furnished 16th and 17th-century interiors, with beautifully carved wood panelling, period furniture, and exhibits that show how life was lived here over the centuries. Behind the house is a small knot garden, laid out in the 17th century.
+
+Though the house as we see it today is a product of the Tudor period, the building dates back to around 1320 and may have been built for a merchant named Ralph de Middleton. Around 1450 William Barley rebuilt the 14th-century hall, turning the structure on its axis to run parallel to the street, as we see it today. The arrangement of rooms in Barley's building was quite odd; the living quarters could only be reached by a narrow stair at the back of the undercroft.
+
+Then in 1530 the Lord Mayor of Norwich, Nicholas Sotherton, added a front door with the lovely carved porch and steps we see today. Over the years the house has served as a residence for wealthy merchants and more mayors of Norwich, but the essential layout has hardly changed since the 17th century.
+
+At the heart of Strangers Hall is the Great Hall, the centre of communal life. From the Hall, passages lead through a warren of dark, panelled bedrooms to a later Georgian dining room, the table set for a meal. Other rooms showcase historic objects including shop signs (look for the gilded sheep) and toys. Below ground level is a medieval barrel-vaulted storage chamber.
+Lady Paine's Chamber is a 17th-century room off the hall, remodelled for Lady Emma Paine, wife of Sir Joseph Paine, a wealthy hosier who purchased Strangers Hall in 1659. Within the chamber is a chest of drawers, commonplace now, but in the 17th century a novelty, replacing less convenient chests for storage.
+
+The Great Chamber is Sir Joseph's private chamber, lined in oak panelling with beautifully carved decoration. This room overlooks the knot garden, with its intricate design of flower beds meant to be viewed from above.
+Cromwell's Protectorate came to a stuttering end, Paine was elected mayor of Norwich.
+
+When Charles II was restored to the throne Paine seized the moment. He collected contributions from his fellow citizens and rode to London, where he presented the new king with £1000, a huge sum at the time. Charles was suitably grateful and rewarded Paine with a knighthood.
+
+One of the more 'genteel' rooms in the house is the Walnut Room, made for Francis Cock, a 17th century Mayor of Norwich. This chamber is decorated with furniture made from marquetry walnut, including two long case clocks. There are also a number of mirrors in ornate wooden frames and a hand-woven tapestry panel made of wool and silk.
+
+WHO WERE THE 'STRANGERS'?
+In the late 16th century the civic government of Norwich wanted to revive the floundering local textile industry. To that end, they invited Flemish and Walloon refugees to settle in Norwich. These refugees, most fleeing religious persecution in their homeland, were called Strangers by the local inhabitants.
+
+Some of these newcomers lived in what is now Strangers Hall, a timber-framed complex of buildings about 10 minutes walk west of the Cathedral. Curiously, though the term 'Strangers' was used frequently to refer to these newcomers, the name was not applied to the Hall until the 19th century, when the house was a residence for Catholic priests.
+
+By 1896 the priests had left, and Strangers Hall was derelict. A local developer planned to pull it down and develop the site, when Leonard Bolingbroke, a solicitor and member of the Norfolk Archaeological Society, stepped in and purchased it. He filled the house with his own collection of antiques and opened it to the public as a folk museum in 1900.
+
+At a time when most public museums were filled with rather dry displays of fossils and stuffed animals, the Strangers Hall museum was unusual; it featured objects from everyday life. Bolingbroke presented the Hall to the City of Norwich in 1922.
+
+## George Skipper
+
+George Skipper the second son of a Dereham building contractor, was Norwich’s best known and most original architect. 
+Skipper was responsible for the designs of the city’s most notable commercial buildings as well as hotels, country residences and public buildings throughout East Anglia, Somerset and London.  His work is generally held by authorities on Victorian and Edwardian architecture to have been of national importance.
+
+New methods and materials were combined to integrate the useful with the beautiful. Influences steamed from Japanese art and by the earlier arts and craft styles, the English Art Nouveau used flowing lines and symbols taken from nature.  The peacock, used in the Arcade frieze, was a particular favourite, with stained glass was also used widely.
+
+### Royal Arcade
+
+The original design of the Arcade, and its decorative features in particular showed that Skipper was experimenting with ideas drawn from Art Nouveau.  He was clearly aware of the work of the leading architects of the day, examples include Victor Horta in Belgium and Hector Gimard in Paris.
+
+On May 24th 1899 city dignitaries celebrated the opening of its new, prestigious, purpose-built shopping arcade "The Royal Arcade".
+Arcade shopping was very much in vogue and brought the fashionable, exotic and continentally influenced architecture of Art Nouveau for the first time.
+The Royal Arcade was also hailed as 'a fragment from the Arabian Nights dropped into the heart of the old City'.
+
+### Surey house (Marble Hall)
+
+Surrey House is a Grade 1 listed building and is the historic home of the Norwich Union Life Insurance Society, now known as Aviva*. Construction commenced in 1900 on the site of an earlier house owned by Henry Howard, Earl of Surrey (1517-1547). The foundation stone was laid by J J Dawson-Paul, Lord Mayor of Norwich, in November 1901 and the new building was officially opened for business in June 1906, although work continued until 1912. The architect was George Skipper, whose previous works include the Royal Arcade. He was commissioned by the Society's directors to produce a ‘splendid but functional office space’, incorporating Greek influences and the themes of insurance, protection and wellbeing, to reassure policyholders of the company's strength and prosperity.
+
+Nobody who visits Surrey House for the first time can possibly be prepared for the surprise that awaits them. The exterior is Palladian in style and is itself impressive enough, yet offers no indication of the architectural extravaganza to be found within.
+
+Walking in through the entrance hall, with its domed ceiling and marble columns, one gets a first hint of the breathtaking spectacle to come. Six steps lead up to the lofty and spacious Marble Hall, so named for reasons which are immediately obvious. Every surface of the walls and floor is faced with marble, fifteen different types of which in various colours were brought in, mainly from Italy and Greece. Two teams of Italian stonemasons were employed to carry out the work. The effect is totally stunning.
+
+A colonnade of forty columns of solid marble supports a first floor balcony which runs around all four sides of the hall. The ceiling has a central dome, partly glazed and eleven metres in diameter. Standing at the centre of the hall is an ‘air fountain’, an early form of air conditioning and very ingenious for its time. Cool air in the summer and warm air in the winter are blown upwards and deflected sideways in all directions by the underside of a bronze pendant which hangs from the centre of the ceiling dome. Access to the first floor is by the spectacular main staircase tucked away in one corner of the hall. A beautiful stained glass window overlooks a half landing, and the stairwell is topped by an exquisitely painted ceiling.
+
+### Jarrolds Store
+
+Primarily a retail business, Jarrolds department store in Norwich city centre, was designed by George John Skipper between 1903 and 1905. Sir Nikolaus Pevsner describes the Jarrolds store as "baroque" in style. Jarrolds have several shops in Norwich, as well as in Wymondham and Cromer.
 
 ## Norwich Castle
+
+Norwich Castle was founded by William the Conqueror some time between 1066 and 1075 and originally took the form of a motte and bailey. Early in 1067, William embarked on a campaign to subjugate East Anglia, and according to military historian R. Allen Brown it was probably around this time that the castle was founded. The earliest recorded incident at the castle is in 1075, when it was besieged by troops loyal to William to put down a rebellion known as the Revolt of the Earls, co-led by Ralph de Gael, Earl of Norfolk. Ralph went abroad to try and rally support from the Danes leaving his wife Emma in charge of the garrison. The support failed to materialise and the rebellion was put down. The siege lasted three months and ended when Emma secured promises that she and her garrison would be unharmed and given safe passage out of the country.
+
+Norwich is one of 48 castles mentioned in the Domesday Survey of 1086. Estimates suggest that between 17 and 113 houses were destroyed in the building of the castle. Excavations in the late 1970s discovered that the castle bailey was built over a Saxon cemetery. The historian Robert Liddiard remarks that "to glance at the urban landscape of Norwich, Durham or Lincoln is to be forcibly reminded of the impact of the Norman invasion". Until the construction of Orford Castle in the mid-12th century under Henry II, Norwich was the only major royal castle in East Anglia.
+
+About the year 1100, the motte was made higher and the surrounding ditch deepened. The stone keep, which stands today, was built on the south west part of the motte between 1094 and 1121. The keep internally had two floors. The entrance was to the upper floor on the eastern side, accessed via an external stone stairway to a forebuilding which became known as Bigod Tower. An area of land surrounding the castle, known as the Castle Fee was immediately brought under royal control, probably for defensive purposes.
+
+During the Revolt of 1173–1174, in which Henry II's sons rebelled and started a civil war, Norwich Castle was put in a state of readiness. Hugh Bigod, 1st Earl of Norfolk, one of the more powerful earls, joined the revolt against Henry. Bigod landed 318 Flemish soldiers in England in May 1174 and with 500 of his own men advanced on and captured Norwich Castle. Fourteen prisoners were held for ransom. When peace was restored later that year, Norwich was returned to royal control.
+
+The castle provided sanctuary to Jews fleeing the violence that erupted against them across East Anglia in Lent 1190, and which reached Norwich on 6 February (Shrove Tuesday). Those Jews unable to find safety inside the castle were massacred.
+
+The Pipe Rolls, records of royal expenditure, note that repairs were carried out at the castle in 1156–1158 and 1204–1205.
+
+Parts of Norwich castle were used as a prison from an early stage.Sometimes the earl in charge of a royal castle refused to allow the sheriff to imprison convicted criminals therein, even though it had been customary to do so. In Edward III's reign (1312 - 1377), an Act of Parliament was passed that gave sheriffs control over the prisons within royal castles. From this time, Norwich castle became the public jail of the county of Norfolk. The king retained ownership of the castle and continued to appoint a constable to look after it in his name.
+
+The castle was bought by the city of Norwich to be used as a museum in the 19th century. The museum was officially opened by the Duke and Duchess of York on 23rd October 1894.
+
+## Catholic Cathedral - The Cathedral of St John the Baptist
+
+There are two cathedrals in Norwich, a fact that sadly escapes many tourist brochures. Most visitors are well aware of Norwich's superb medieval cathedral, but few realise that there is another cathedral, much newer, but no less impressive in its own way.
+
+Located immediately outside the ring road on the western edge of central Norwich is the Cathedral Church of St John the Baptist, more popularly known as Norwich's Roman Catholic Cathedral.
+
+This 'other' cathedral is easily accessed from the city centre by way of a footbridge over the ring road. Those visitors who take the easy stroll from the medieval Anglican cathedral to its Catholic counterpart are rewarded by one of the finest examples of Victorian Gothic architecture in England, a sumptuous symphony of 19th-century style and decoration.
+
+Norwich's Catholic Cathedral was begun, not as a cathedral at all, but as a church for Norwich's Catholic community. The date was 1882 and the patron was Henry Howard, the 15th Duke of Norfolk, head of the Norfolk Howards, one of the most powerful Catholic families in England.
+
+Howard hoped that a new church would help reinvigorate Catholicism and help make his religion a more accepted part of English life. The story goes that Howard was so delighted by his marriage in 1877 that he decided to build the church as a sign of gratitude to God.
+
+Howard called upon architect George Gilbert Scott, a recent convert to Catholicism and one of the most prolific and successful Victorian architects. Scott was a member of a family of architects who were to dominate 19th and early 20th-century ecclesiastical architecture in England.
+
+It was not a surprising choice, but it was a choice that had unexpected consequences, for only two years later Scott suffered a complete mental breakdown and was certified insane. Keeping things in the family, Scott's work was carried to completion by his brother John Oldrid Scott, and work finished in 1910.
+
+The result of Scott's design is a magnificent structure, emulating 13th century Early English Gothic, considered by many Victorians to be the most 'pure' and 'English' style.
+
+The new Catholic church was to be built on the site of the city's former gaol, but this location was problematic, for it stood above extensive medieval chalk mines. It took two long years of work to make the mines secure, and it was not until 1884 that the foundation stone was laid (that is why you sometimes see 1884 used as the official date of construction, which isn't strictly true).
+
+The design is cruciform, with aisles and an octagonal chapel projecting from the north transept. The structure is dominated by a crossing tower and a massive east front with flanking turrets rising above a peaked gable. The striking tower is so distinctive that during WWII it was used as a turning beacon by RAF pilots returning from bombing raids in Europe.
+
+The material is ashlar combined with varieties of stone from famous English quarries at Beer (Devon) and Ancaster and Clipsham (both Lancashire). The original design called for Beer stone to be used throughout, but after a decade of work it was obvious that the Beer stone was too soft and was weathering quickly, so the church was finished using limestone from Clipsham and Ancaster.
+
+At this point, the Duke discovered that he did not actually have the planning permission he needed to build the church to its full length, and he had to undertake negotiations with Norwich City Council to get his plans approved.
+
+If talk of materials bores you, look down as you walk up the main steps to the door and you will see thousands of tiny fossils embedded in the stones. More fossils add a speckled look to the dark Frosterley marble pillars fringing the nave.
+
+The nave is of ten bays, supported on massive rounded columns. The columns seem to simultaneously lead your eye up to the vaulted ceiling, and down the length of the nave towards the richly decorated east window. Like much of the church this is filled with beautifully coloured Victorian glass that adds a glow of colour to the interior whenever the sun shines.
+
+Perhaps the best glass is in the Sunken Chapel, also known as the Chapel of St Joseph. This glass ranks with the best 19th century stained glass in Europe. The windows depict four saints; Flora, Pauline, Ester, and Barbara. The choice is not random; these are the given names of the Duke of Norfolk's wife, Lady Flora Hastings.
+
+Lady Flora died young, and the Duke remarried, so it was his second wife, Lady Gwendolen Herries, who paid for the north transept chapel, with stained glass telling the story of Our Lady of Walsingham's shrine. The glass is attributed to John Powell of Hardman and Powell, with the exception of the chancel windows, which were by Dunstan Powell.
+
+One of the real highlights of the interior is the use of the Frosterley marble for the moulded columns of the clerestory and major window openings. The marble lends a magnificent depth of colour that really gives a sense of depth and solidity to the interior.
+
+Sculptures abound; it seems every surface is beautifully carved and some of the carving is simply breathtaking. The nave roof is decorated with beautiful bosses, many carved with symbols of St John the Baptist, others depicting Biblical scenes. These bosses are simply superb, easily the Victorian equal of medieval bosses at Norwich's 'other' cathedral.
+
+But such praise was not always universal. When the church opened for worship in 1910 some visitors thought it vulgar and dim, even forbidding, and out of character with Norwich's rich heritage. Time changes sensibilities, however, and it would be a visitor hardened to aesthetically pleasing art and architecture who would cast aspersions on this wonderful building.
+
+St John the Baptist served as a parish church until 1976, when it was named the mother church of the new diocese of East Anglia, raising it to cathedral status. It is one of the 'Norwich 12', a group of a dozen key historic places in the city.
 
 ## References
 
